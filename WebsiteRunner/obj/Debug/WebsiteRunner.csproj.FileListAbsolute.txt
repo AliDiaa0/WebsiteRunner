@@ -1,0 +1,10 @@
+D:\Software\MSVS\Projects\CSharp\WebsiteRunner\bin\Debug\WebsiteRunner.exe.config
+D:\Software\MSVS\Projects\CSharp\WebsiteRunner\bin\Debug\WebsiteRunner.exe
+D:\Software\MSVS\Projects\CSharp\WebsiteRunner\bin\Debug\WebsiteRunner.pdb
+D:\Software\MSVS\Projects\CSharp\WebsiteRunner\obj\Debug\WebsiteRunner.csproj.AssemblyReference.cache
+D:\Software\MSVS\Projects\CSharp\WebsiteRunner\obj\Debug\WebsiteRunner.csproj.SuggestedBindingRedirects.cache
+D:\Software\MSVS\Projects\CSharp\WebsiteRunner\obj\Debug\WebsiteRunner.csproj.CoreCompileInputs.cache
+D:\Software\MSVS\Projects\CSharp\WebsiteRunner\obj\Debug\WebsiteRunner.exe
+D:\Software\MSVS\Projects\CSharp\WebsiteRunner\obj\Debug\WebsiteRunner.pdb
+D:\Software\MSVS\Projects\CSharp\WebsiteRunner\obj\Debug\WebsiteRunner.FormUI.resources
+D:\Software\MSVS\Projects\CSharp\WebsiteRunner\obj\Debug\WebsiteRunner.csproj.GenerateResource.cache
