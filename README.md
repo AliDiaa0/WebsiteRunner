@@ -1,2 +1,4 @@
 # WebsiteRunner
-A stupid or very humble website start app that starts any website you want by pasting the URL, works by clicking on OK or pressing the Enter key on the keyboard.
+A stupid or very humble website start app written in C# that starts any website you want by pasting the URL, works by clicking on OK or pressing the Enter key on the keyboard.
+
+[WINDOWS ONLY, .NET Framework 4.7.2 REQUIRED FOR NOW]
